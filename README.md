@@ -1,2 +1,2 @@
 # Fluxogramas
-  --Instalando e usando Flowgorithm.
+  Material utilizado no curso de Fluxogramas com Flowgorithm.
